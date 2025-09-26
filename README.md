@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Pesan Spesial Buat Nola 💌</title>
+  <title>Pesan Spesial Buat FANIAAA💌</title>
   <style>
     body {
       background: linear-gradient(135deg, #ffe0f0, #fbeaff);
@@ -40,8 +40,8 @@
 </head>
 <body>
   <div class="card">
-    <h1>Selamat Malam Nola Cantikku 🌙✨</h1>
-    <p>Semangat terus ya kuliahnya di sana!</p>
+    <h1>SEMANGAT YAA KERJANYAAAAa Cantikku 🌙✨</h1>
+    <p>Semangat terus ya!</p>
     <p>Ada aku di sini yang support kamu, cinta 💕💕💕💕</p>
     <p>Semoga kamu merasa tenang dengan aku kirim ini 😌</p>
     <div class="love">💌</div>
